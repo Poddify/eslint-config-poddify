@@ -1,19 +1,19 @@
 {
-  "name": "@jordanforeman/eslint-config-btg",
+  "name": "@poddify/eslint-config-poddify",
   "version": "1.0.0",
   "description": "eslint config for reuse across projects",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:JordanForeman/eslint-config-btg.git"
+    "url": "git@github.com:Poddify/eslint-config-poddify.git"
   },
   "scripts": {
     "build": "echo NOOP",
     "test": "echo NOOP",
     "verify": "echo NOOP"
   },
-  "author": "Better Than Great <thejordanforeman@gmail.com>",
-  "license": "ISC",
+  "author": "Poddify <jordan@poddify.com>",
+  "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb": "^15.0.1",
     "eslint-plugin-import": "^2.3.0",
