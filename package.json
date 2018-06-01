@@ -1,6 +1,6 @@
 {
   "name": "@poddify/eslint-config-poddify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint config for reuse across projects",
   "main": "index.js",
   "repository": {
