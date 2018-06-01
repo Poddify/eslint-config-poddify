@@ -14,9 +14,9 @@ In your `.eslintrc`
 
 ```json
 {
-    "extends": "poddify",
+    "extends": "@poddify/eslint-config-poddify",
     "rules": {
-        // your project, your rules
+        "your project": "your rules"
     }
 }
 ```
