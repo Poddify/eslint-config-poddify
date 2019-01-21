@@ -14,6 +14,11 @@ module.exports = {
         "no-confusing-arrow": "off",
         "import/no-dynamic-require": 0,
         "import/prefer-default-export": 0,
-        "global-require": 0
+        "global-require": 0,
+        "one-var": ["error", {
+            "var": "never",
+            "const": "never",
+            "let": "always"
+        }]
     }
 };
